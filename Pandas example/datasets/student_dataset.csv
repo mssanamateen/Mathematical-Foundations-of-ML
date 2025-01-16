@@ -1,0 +1,61 @@
+﻿stud_id,stud_name,college_name,course,cgpa,placed or not,company_name
+1,John Smith,XYZ University,Computer Science,8.4,Yes,TechCorp
+2,Alice Brown,ABC Institute,Mechanical Engg,7.1,No,
+3,Bob White,PQR College,Electrical Engg,8.8,Yes,ElectroTech
+4,Sarah Lee,XYZ University,Civil Engg,6.7,No,
+5,Tom Black,ABC Institute,IT,9.2,Yes,CodeWorks
+6,Emily Green,PQR College,Mechanical Engg,7.3,Yes,MechTech
+7,Mark Blue,XYZ University,Electrical Engg,8.5,Yes,PowerGrid
+8,Jenny Clark,ABC Institute,Computer Science,7.6,No,-
+9,Kevin Gray,PQR College,IT,9,Yes,SoftNet
+10,Laura White,XYZ University,Civil Engg,6.3,No,-
+11,Rachel Adams,XYZ University,Computer Science,8.1,Yes,TechCorp
+12,Peter Jones,ABC Institute,Mechanical Engg,6.9,No,-
+13,Adam Carter,PQR College,IT,9.4,Yes,SoftNet
+14,Megan Hall,XYZ University,Electrical Engg,7.8,Yes,ElectroTech
+15,Olivia Black,ABC Institute,Civil Engg,6.5,No,-
+16,David Green,PQR College,Computer Science,8.9,Yes,CodeWorks
+17,Jessica Ray,XYZ University,Mechanical Engg,,No,
+18,Harry James,PQR College,IT,8.7,Yes,SoftNet
+19,Sophia King,ABC Institute,Electrical Engg,9.1,Yes,PowerGrid
+20,Liam Brown,XYZ University,Civil Engg,6.8,No,-
+21,Ethan Clark,PQR College,Computer Science,7.9,Yes,CodeWorks
+22,Mia Roberts,XYZ University,Mechanical Engg,6.8,No,-
+23,Noah Davis,ABC Institute,Electrical Engg,9.2,Yes,ElectroTech
+24,Ava Miller,PQR College,Civil Engg,6.4,No,-
+25,Lucas Allen,XYZ University,IT,8.7,Yes,SoftNet
+26,Emma Walker,ABC Institute,Mechanical Engg,7.5,Yes,MechTech
+27,Mason Perez,XYZ University,Electrical Engg,8.3,Yes,PowerGrid
+28,Isabella Lee,PQR College,Computer Science,9,Yes,TechCorp
+29,Jacob Brown,ABC Institute,IT,7.2,No,-
+30,Charlotte Kim,XYZ University,Civil Engg,6.6,No,-
+31,Olivia Green,PQR College,Computer Science,8.6,Yes,CodeWorks
+32,Elijah Adams,ABC Institute,Mechanical Engg,7.7,Yes,MechTech
+33,Amelia King,XYZ University,Electrical Engg,9.3,Yes,ElectroTech
+34,Logan White,PQR College,Civil Engg,6.5,No,-
+35,Harper Smith,ABC Institute,IT,8.1,Yes,SoftNet
+36,James Taylor,XYZ University,Electrical Engg,7.8,Yes,PowerGrid
+37,Ella Brown,PQR College,Computer Science,8.9,Yes,TechCorp
+38,Henry Harris,ABC Institute,Mechanical Engg,6.9,No,
+39,Chloe Wilson,XYZ University,IT,9.1,Yes,SoftNet
+40,Benjamin Ray,PQR College,Civil Engg,6.7,No,
+41,Liam Harris,XYZ University,Computer Science,8.5,Yes,TechCorp
+42,Sophia Davis,ABC Institute,Civil Engg,6.8,No,-
+43,Logan White,PQR College,Electrical Engg,9.3,Yes,ElectroTech
+44,Ava Johnson,XYZ University,IT,7.1,No,-
+45,Ethan Carter,ABC Institute,Mechanical Engg,8.4,Yes,MechTech
+46,Mia Wilson,PQR College,Electrical Engg,9,Yes,PowerGrid
+47,Harper Moore,XYZ University,Computer Science,7.5,Yes,CodeWorks
+48,Mason Clark,ABC Institute,Civil Engg,6.6,No,-
+49,Ella Brown,PQR College,IT,8.2,Yes,SoftNet
+50,Henry Taylor,XYZ University,Electrical Engg,7.9,Yes,ElectroTech
+51,Emily Johnson,ABC Institute,Mechanical Engg,8.7,Yes,MechTech
+52,Amelia Green,PQR College,IT,7.3,No,-
+53,Chloe Harris,XYZ University,Computer Science,8.8,Yes,TechCorp
+54,Lucas White,ABC Institute,Electrical Engg,9.4,Yes,PowerGrid
+55,Olivia Brown,PQR College,Mechanical Engg,7.7,Yes,MechTech
+56,Noah Lee,XYZ University,Civil Engg,6.5,No,
+57,Charlotte Kim,ABC Institute,IT,8.6,Yes,SoftNet
+58,James Adams,PQR College,Electrical Engg,9.1,Yes,ElectroTech
+59,Emma Walker,XYZ University,Computer Science,7.8,Yes,CodeWorks
+60,Benjamin Gray,ABC Institute,Mechanical Engg,6.9,No,-

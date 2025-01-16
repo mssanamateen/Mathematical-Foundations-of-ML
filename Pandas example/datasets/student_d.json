@@ -1,0 +1,542 @@
+[
+ {
+   "stud_id": 1,
+   "stud_name": "John Smith",
+   "college_name": "XYZ University",
+   "course": "Computer Science",
+   "cgpa": 8.4,
+   "placed or not": "Yes",
+   "company_name": "TechCorp"
+ },
+ {
+   "stud_id": 2,
+   "stud_name": "Alice Brown",
+   "college_name": "ABC Institute",
+   "course": "Mechanical Engg",
+   "cgpa": 7.1,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 3,
+   "stud_name": "Bob White",
+   "college_name": "PQR College",
+   "course": "Electrical Engg",
+   "cgpa": 8.8,
+   "placed or not": "Yes",
+   "company_name": "ElectroTech"
+ },
+ {
+   "stud_id": 4,
+   "stud_name": "Sarah Lee",
+   "college_name": "XYZ University",
+   "course": "Civil Engg",
+   "cgpa": 6.7,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 5,
+   "stud_name": "Tom Black",
+   "college_name": "ABC Institute",
+   "course": "IT",
+   "cgpa": 9.2,
+   "placed or not": "Yes",
+   "company_name": "CodeWorks"
+ },
+ {
+   "stud_id": 6,
+   "stud_name": "Emily Green",
+   "college_name": "PQR College",
+   "course": "Mechanical Engg",
+   "cgpa": 7.3,
+   "placed or not": "Yes",
+   "company_name": "MechTech"
+ },
+ {
+   "stud_id": 7,
+   "stud_name": "Mark Blue",
+   "college_name": "XYZ University",
+   "course": "Electrical Engg",
+   "cgpa": 8.5,
+   "placed or not": "Yes",
+   "company_name": "PowerGrid"
+ },
+ {
+   "stud_id": 8,
+   "stud_name": "Jenny Clark",
+   "college_name": "ABC Institute",
+   "course": "Computer Science",
+   "cgpa": 7.6,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 9,
+   "stud_name": "Kevin Gray",
+   "college_name": "PQR College",
+   "course": "IT",
+   "cgpa": 9,
+   "placed or not": "Yes",
+   "company_name": "SoftNet"
+ },
+ {
+   "stud_id": 10,
+   "stud_name": "Laura White",
+   "college_name": "XYZ University",
+   "course": "Civil Engg",
+   "cgpa": 6.3,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 11,
+   "stud_name": "Rachel Adams",
+   "college_name": "XYZ University",
+   "course": "Computer Science",
+   "cgpa": 8.1,
+   "placed or not": "Yes",
+   "company_name": "TechCorp"
+ },
+ {
+   "stud_id": 12,
+   "stud_name": "Peter Jones",
+   "college_name": "ABC Institute",
+   "course": "Mechanical Engg",
+   "cgpa": 6.9,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 13,
+   "stud_name": "Adam Carter",
+   "college_name": "PQR College",
+   "course": "IT",
+   "cgpa": 9.4,
+   "placed or not": "Yes",
+   "company_name": "SoftNet"
+ },
+ {
+   "stud_id": 14,
+   "stud_name": "Megan Hall",
+   "college_name": "XYZ University",
+   "course": "Electrical Engg",
+   "cgpa": 7.8,
+   "placed or not": "Yes",
+   "company_name": "ElectroTech"
+ },
+ {
+   "stud_id": 15,
+   "stud_name": "Olivia Black",
+   "college_name": "ABC Institute",
+   "course": "Civil Engg",
+   "cgpa": 6.5,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 16,
+   "stud_name": "David Green",
+   "college_name": "PQR College",
+   "course": "Computer Science",
+   "cgpa": 8.9,
+   "placed or not": "Yes",
+   "company_name": "CodeWorks"
+ },
+ {
+   "stud_id": 17,
+   "stud_name": "Jessica Ray",
+   "college_name": "XYZ University",
+   "course": "Mechanical Engg",
+   "cgpa": 7.4,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 18,
+   "stud_name": "Harry James",
+   "college_name": "PQR College",
+   "course": "IT",
+   "cgpa": 8.7,
+   "placed or not": "Yes",
+   "company_name": "SoftNet"
+ },
+ {
+   "stud_id": 19,
+   "stud_name": "Sophia King",
+   "college_name": "ABC Institute",
+   "course": "Electrical Engg",
+   "cgpa": 9.1,
+   "placed or not": "Yes",
+   "company_name": "PowerGrid"
+ },
+ {
+   "stud_id": 20,
+   "stud_name": "Liam Brown",
+   "college_name": "XYZ University",
+   "course": "Civil Engg",
+   "cgpa": 6.8,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 21,
+   "stud_name": "Ethan Clark",
+   "college_name": "PQR College",
+   "course": "Computer Science",
+   "cgpa": 7.9,
+   "placed or not": "Yes",
+   "company_name": "CodeWorks"
+ },
+ {
+   "stud_id": 22,
+   "stud_name": "Mia Roberts",
+   "college_name": "XYZ University",
+   "course": "Mechanical Engg",
+   "cgpa": 6.8,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 23,
+   "stud_name": "Noah Davis",
+   "college_name": "ABC Institute",
+   "course": "Electrical Engg",
+   "cgpa": 9.2,
+   "placed or not": "Yes",
+   "company_name": "ElectroTech"
+ },
+ {
+   "stud_id": 24,
+   "stud_name": "Ava Miller",
+   "college_name": "PQR College",
+   "course": "Civil Engg",
+   "cgpa": 6.4,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 25,
+   "stud_name": "Lucas Allen",
+   "college_name": "XYZ University",
+   "course": "IT",
+   "cgpa": 8.7,
+   "placed or not": "Yes",
+   "company_name": "SoftNet"
+ },
+ {
+   "stud_id": 26,
+   "stud_name": "Emma Walker",
+   "college_name": "ABC Institute",
+   "course": "Mechanical Engg",
+   "cgpa": 7.5,
+   "placed or not": "Yes",
+   "company_name": "MechTech"
+ },
+ {
+   "stud_id": 27,
+   "stud_name": "Mason Perez",
+   "college_name": "XYZ University",
+   "course": "Electrical Engg",
+   "cgpa": 8.3,
+   "placed or not": "Yes",
+   "company_name": "PowerGrid"
+ },
+ {
+   "stud_id": 28,
+   "stud_name": "Isabella Lee",
+   "college_name": "PQR College",
+   "course": "Computer Science",
+   "cgpa": 9,
+   "placed or not": "Yes",
+   "company_name": "TechCorp"
+ },
+ {
+   "stud_id": 29,
+   "stud_name": "Jacob Brown",
+   "college_name": "ABC Institute",
+   "course": "IT",
+   "cgpa": 7.2,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 30,
+   "stud_name": "Charlotte Kim",
+   "college_name": "XYZ University",
+   "course": "Civil Engg",
+   "cgpa": 6.6,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 31,
+   "stud_name": "Olivia Green",
+   "college_name": "PQR College",
+   "course": "Computer Science",
+   "cgpa": 8.6,
+   "placed or not": "Yes",
+   "company_name": "CodeWorks"
+ },
+ {
+   "stud_id": 32,
+   "stud_name": "Elijah Adams",
+   "college_name": "ABC Institute",
+   "course": "Mechanical Engg",
+   "cgpa": 7.7,
+   "placed or not": "Yes",
+   "company_name": "MechTech"
+ },
+ {
+   "stud_id": 33,
+   "stud_name": "Amelia King",
+   "college_name": "XYZ University",
+   "course": "Electrical Engg",
+   "cgpa": 9.3,
+   "placed or not": "Yes",
+   "company_name": "ElectroTech"
+ },
+ {
+   "stud_id": 34,
+   "stud_name": "Logan White",
+   "college_name": "PQR College",
+   "course": "Civil Engg",
+   "cgpa": 6.5,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 35,
+   "stud_name": "Harper Smith",
+   "college_name": "ABC Institute",
+   "course": "IT",
+   "cgpa": 8.1,
+   "placed or not": "Yes",
+   "company_name": "SoftNet"
+ },
+ {
+   "stud_id": 36,
+   "stud_name": "James Taylor",
+   "college_name": "XYZ University",
+   "course": "Electrical Engg",
+   "cgpa": 7.8,
+   "placed or not": "Yes",
+   "company_name": "PowerGrid"
+ },
+ {
+   "stud_id": 37,
+   "stud_name": "Ella Brown",
+   "college_name": "PQR College",
+   "course": "Computer Science",
+   "cgpa": 8.9,
+   "placed or not": "Yes",
+   "company_name": "TechCorp"
+ },
+ {
+   "stud_id": 38,
+   "stud_name": "Henry Harris",
+   "college_name": "ABC Institute",
+   "course": "Mechanical Engg",
+   "cgpa": 6.9,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 39,
+   "stud_name": "Chloe Wilson",
+   "college_name": "XYZ University",
+   "course": "IT",
+   "cgpa": 9.1,
+   "placed or not": "Yes",
+   "company_name": "SoftNet"
+ },
+ {
+   "stud_id": 40,
+   "stud_name": "Benjamin Ray",
+   "college_name": "PQR College",
+   "course": "Civil Engg",
+   "cgpa": 6.7,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 41,
+   "stud_name": "Liam Harris",
+   "college_name": "XYZ University",
+   "course": "Computer Science",
+   "cgpa": 8.5,
+   "placed or not": "Yes",
+   "company_name": "TechCorp"
+ },
+ {
+   "stud_id": 42,
+   "stud_name": "Sophia Davis",
+   "college_name": "ABC Institute",
+   "course": "Civil Engg",
+   "cgpa": 6.8,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 43,
+   "stud_name": "Logan White",
+   "college_name": "PQR College",
+   "course": "Electrical Engg",
+   "cgpa": 9.3,
+   "placed or not": "Yes",
+   "company_name": "ElectroTech"
+ },
+ {
+   "stud_id": 44,
+   "stud_name": "Ava Johnson",
+   "college_name": "XYZ University",
+   "course": "IT",
+   "cgpa": 7.1,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 45,
+   "stud_name": "Ethan Carter",
+   "college_name": "ABC Institute",
+   "course": "Mechanical Engg",
+   "cgpa": 8.4,
+   "placed or not": "Yes",
+   "company_name": "MechTech"
+ },
+ {
+   "stud_id": 46,
+   "stud_name": "Mia Wilson",
+   "college_name": "PQR College",
+   "course": "Electrical Engg",
+   "cgpa": 9,
+   "placed or not": "Yes",
+   "company_name": "PowerGrid"
+ },
+ {
+   "stud_id": 47,
+   "stud_name": "Harper Moore",
+   "college_name": "XYZ University",
+   "course": "Computer Science",
+   "cgpa": 7.5,
+   "placed or not": "Yes",
+   "company_name": "CodeWorks"
+ },
+ {
+   "stud_id": 48,
+   "stud_name": "Mason Clark",
+   "college_name": "ABC Institute",
+   "course": "Civil Engg",
+   "cgpa": 6.6,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 49,
+   "stud_name": "Ella Brown",
+   "college_name": "PQR College",
+   "course": "IT",
+   "cgpa": 8.2,
+   "placed or not": "Yes",
+   "company_name": "SoftNet"
+ },
+ {
+   "stud_id": 50,
+   "stud_name": "Henry Taylor",
+   "college_name": "XYZ University",
+   "course": "Electrical Engg",
+   "cgpa": 7.9,
+   "placed or not": "Yes",
+   "company_name": "ElectroTech"
+ },
+ {
+   "stud_id": 51,
+   "stud_name": "Emily Johnson",
+   "college_name": "ABC Institute",
+   "course": "Mechanical Engg",
+   "cgpa": 8.7,
+   "placed or not": "Yes",
+   "company_name": "MechTech"
+ },
+ {
+   "stud_id": 52,
+   "stud_name": "Amelia Green",
+   "college_name": "PQR College",
+   "course": "IT",
+   "cgpa": 7.3,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 53,
+   "stud_name": "Chloe Harris",
+   "college_name": "XYZ University",
+   "course": "Computer Science",
+   "cgpa": 8.8,
+   "placed or not": "Yes",
+   "company_name": "TechCorp"
+ },
+ {
+   "stud_id": 54,
+   "stud_name": "Lucas White",
+   "college_name": "ABC Institute",
+   "course": "Electrical Engg",
+   "cgpa": 9.4,
+   "placed or not": "Yes",
+   "company_name": "PowerGrid"
+ },
+ {
+   "stud_id": 55,
+   "stud_name": "Olivia Brown",
+   "college_name": "PQR College",
+   "course": "Mechanical Engg",
+   "cgpa": 7.7,
+   "placed or not": "Yes",
+   "company_name": "MechTech"
+ },
+ {
+   "stud_id": 56,
+   "stud_name": "Noah Lee",
+   "college_name": "XYZ University",
+   "course": "Civil Engg",
+   "cgpa": 6.5,
+   "placed or not": "No",
+   "company_name": "-"
+ },
+ {
+   "stud_id": 57,
+   "stud_name": "Charlotte Kim",
+   "college_name": "ABC Institute",
+   "course": "IT",
+   "cgpa": 8.6,
+   "placed or not": "Yes",
+   "company_name": "SoftNet"
+ },
+ {
+   "stud_id": 58,
+   "stud_name": "James Adams",
+   "college_name": "PQR College",
+   "course": "Electrical Engg",
+   "cgpa": 9.1,
+   "placed or not": "Yes",
+   "company_name": "ElectroTech"
+ },
+ {
+   "stud_id": 59,
+   "stud_name": "Emma Walker",
+   "college_name": "XYZ University",
+   "course": "Computer Science",
+   "cgpa": 7.8,
+   "placed or not": "Yes",
+   "company_name": "CodeWorks"
+ },
+ {
+   "stud_id": 60,
+   "stud_name": "Benjamin Gray",
+   "college_name": "ABC Institute",
+   "course": "Mechanical Engg",
+   "cgpa": 6.9,
+   "placed or not": "No",
+   "company_name": "-"
+ }
+]
