@@ -4,12 +4,12 @@ Welcome to this open repository—a chill zone for students to dive into and add
 
 ---
 
-## Table of Contents
+<h2> Table of Contents <img src = https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd290ODB4ejhyMTBvMmlzYXd2NWcxOGh2cnFjMnYxODdtbnQ2ODR0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DPkmxreCZxr7QD9Bq8/giphy.gif width = 60> </h2>
 
 - [Introduction](#introduction)
 - [Course Objectives and Outcomes](#course-objectives-and-outcomes)
 - [Programs Included](#programs-included)
-- [Installation](#installation)
+- [Installation](#installation) 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
@@ -17,13 +17,14 @@ Welcome to this open repository—a chill zone for students to dive into and add
 
 ---
 
-## Introduction
+<h2> Introduction </h2> 
 
 Machine learning is all about teaching computers how to learn from data and make smart decisions on their own—pretty cool, right? This repository is here to help you get started on that journey. It’s packed with hands-on examples and case studies in Jupyter notebooks, covering everything from basic data processing to advanced ensemble methods. And the best part? Students are welcome to dive in, explore, and contribute to these projects, making them even better as you learn and grow in the world of machine learning.
 
 ---
 
 ## Course Objectives and Outcomes
+<img src = https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTA4eGN2NDZod2Jsd2s4NHM2aDcyMWFldzdiMTUweGUwYjRhbDJ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9SHRsXHZepLObq6J0Z/giphy.gif width = 70>
 
 ### Course Objectives
 1. Demonstrate different classifiers on various datasets.
@@ -189,4 +190,4 @@ For any questions or suggestions, please feel free to contact, would love to hel
 ---
 
 Feel free to reach out if you have any further questions or need additional modifications. Keep learning, keep growing.
-<img src = https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2psdmtzejltOGoxY2JhOWh6c2s0cmNxeWdoM3BkYWp1Z3VoM3ZiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szH4rwpTPISTSQwK4G/giphy.gif width = 100px>
+<img src = https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3QyZ2V3N3FqczA2eGh6aDZyMHc1N2s4d3Jua2dpZG92dTlvcno3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y9UUhZDu7bpr5sp8hD/giphy.gif width = 200px>
