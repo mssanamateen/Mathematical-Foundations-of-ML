@@ -190,6 +190,7 @@ For any questions or suggestions, please feel free to contact, would love to hel
 ---
 
 Feel free to reach out if you have any further questions or need additional modifications. Keep learning, keep growing.
+
 <img src = https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3QyZ2V3N3FqczA2eGh6aDZyMHc1N2s4d3Jua2dpZG92dTlvcno3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y9UUhZDu7bpr5sp8hD/giphy.gif width = 200px>
 
 ## Authors
