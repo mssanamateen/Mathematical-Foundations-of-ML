@@ -196,5 +196,8 @@ Feel free to reach out if you have any further questions or need additional modi
 ## Authors
 - [@Sana Mateen](https://github.com/mssanamateen)
 - [@MirAyanAli](https://github.com/mirayanali5)
--[@Motassim Khan](https://github.com/motassimkhan)
--[@Yash](https://github.com/Yash-slr)
+- [@Motassim Khan](https://github.com/motassimkhan)
+- [@Yash](https://github.com/Yash-slr)
+## Special Contributions
+- [@Zunaira Fatima](https://github.com/Zunairafatima9)
+- [@Sadiya Marfua](https://github.com/Sadiyamarfua9)
